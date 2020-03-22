@@ -4,7 +4,7 @@ class Dog
     @breed= breed 
   end
     
-    def mutt
-      @breed. "Mutt"
-  end 
+    def breed 
+      breed = "Mutt"
+    end 
 end 
